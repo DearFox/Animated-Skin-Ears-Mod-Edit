@@ -1,7 +1,7 @@
 # Animated Skin Ears Mod Edit
 Vanilla minecraft blink shader. Version for compatibility with Ears Mod (AnimatedSkin fork)
 
-Web Tool: https://animated-skin-ears-mod-edit.owo.name/
+Web Tool: https://animated-skin-ears-mod-edit.uwu.name/
 
 This is a modified version of the "AnimatedSkin" shader for compatibility with Ears Mod
 
